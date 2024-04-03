@@ -1,0 +1,79 @@
+.logo {
+  height: 15vh;
+}
+main .minimal-logo {
+  height: 22vh !important;
+}
+main .text h1 {
+  font-size: 1.8rem;
+}
+main .text h3 {
+  font-size: 1rem;
+}
+.videoo {
+  width: 80vw;
+  height: 50vh;
+}
+.video-text h4 {
+  font-size: 0.8rem;
+}
+.video-text h3 {
+  font-size: 1.5rem;
+}
+
+.benefits-container h2 {
+  font-size: 2.3rem;
+}
+
+.cards {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.card {
+  width: 15rem;
+  height: 18rem;
+}
+
+.content .left-side img {
+  height: 18rem;
+}
+
+.benefiy h1 {
+  padding-top: 0rem ;
+  font-size: 1.7rem;
+}
+
+.single-benefit {
+    font-size: 0.9rem;
+}
+.questions h1{
+    font-size: 2.3rem;
+}
+
+.questions button{
+    font-size: 0.9rem;
+}
+
+
+
+/* ================REVIEWS================ */
+.questions button{
+  font-size: 1rem !important;
+}
+.item .text{
+  font-size: 1rem;
+}
+.item {
+  height: 20rem;
+}
+  .cent-horiz h1{
+    font-size: 1.8rem;
+  }
+
+  .detail {
+    width: 20rem;
+    font-size: 1.2rem !important;
+  }
+  .contentt .left-side img {
+    height: 18rem;
+  }

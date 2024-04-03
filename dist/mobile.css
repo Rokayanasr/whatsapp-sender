@@ -1,0 +1,134 @@
+body{
+    overflow-x: hidden;
+}
+.logo {
+  height: 13vh;
+}
+main .minimal-logo {
+  height: 20vh !important;
+}
+main .text h1 {
+  font-size: 1.5rem;
+}
+main .text h3 {
+  padding-top: 4vh;
+  font-size: 0.9rem;
+}
+.videoo{
+    height: 40vh;
+    width: 80vw;
+  }
+
+  .video-text h4{
+    font-size: 0.8rem;
+}
+.video-text h3{
+    font-size: 1.2rem;
+}
+
+.benefits-container h3{
+    /* font-size: 1.2rem !important; */
+    padding-bottom: 2rem;
+    /* padding-top: 3vh;
+    padding: 0; */
+}
+
+.cards{
+    column-gap: 2vw;
+    grid-template-columns: repeat(2, 1fr);
+}
+.card img{
+  height: 4.5rem;
+}
+.card h3{
+    font-size: .7rem;
+}
+
+.card{
+    width: 10rem;
+    height: 20vh;
+}
+/* .single-benefit {
+  font-size: 0.9rem;
+} */
+.single-benefit h3{
+  font-size: 1rem;
+  width: 20rem;
+}
+@media(max-width : 385px){
+
+      .single-benefit {
+        padding-right: 2rem;
+        padding-left: 2rem;
+
+        /* font-size: 0.7rem; */
+    }
+    .card{
+      width: 10rem;
+      height: 25vh;
+  }
+  .card img{
+    height: 3.2rem;
+  }
+}
+
+/* #whatsapp .whtsapp{
+    right: 100px;
+     bottom: 100px;
+} */
+
+.content .left-side img {
+    height: 16rem;
+  }
+  
+  .benefiy h1 {
+      padding-top: 2rem ;
+    font-size: 1.5rem;
+  }
+  
+  /* .single-benefit {
+      font-size: 0.8rem;
+
+  } */
+  
+  .questions h1{
+    font-size: 2rem;
+}
+
+
+.questions button{
+  font-size: 0.85rem !important;
+}
+.item {
+  height: 18rem;
+  width: 14rem;
+  font-size: 0.8rem;
+}
+.item .text{
+  font-size: 1rem;
+}
+.owl-item{
+  display: flex;
+  justify-content: center;
+  
+}
+.cent-horiz h1{
+  font-size: 1.4rem;
+}
+
+.edu h1{
+  font-size: 1.6rem !important;
+}
+.edu .contentt img{
+  height: 19rem !important;
+} 
+.edu .contentt {
+  gap: 2rem !important;
+} 
+.detail{
+  width: 20rem;
+  font-size: 0.85rem !important;}
+.edu .heading{
+  width: 20rem;
+  font-size: 1.3rem !important;
+}
