@@ -1704,7 +1704,7 @@ body {
   margin: 0 !important;
   padding: 0;
   box-sizing: border-box;
-  overflow: auto;
+  overflow-x: hidden;
   --main-color: #059669;
   --secoundry-color: #f2ef7e;
   --bg-color: #fff;
