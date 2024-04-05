@@ -1777,7 +1777,13 @@ h3{
 .logo {
   height: 25vh;
 }
-
+.centeringb {
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 .centering {
   /* background-color: red; */
   display: flex;
@@ -1846,7 +1852,7 @@ main .text h3 {
 
 .main-section {
   width: 100%;
-  background-image: url("../assets/peakpx.jpg");
+  background-image: url("./assets/peakpx.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }

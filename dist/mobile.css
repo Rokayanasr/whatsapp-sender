@@ -58,10 +58,11 @@ main .text h3 {
 @media(max-width : 385px){
 
       .single-benefit {
-        padding-right: 2rem;
-        padding-left: 2rem;
+        padding-right: 1rem;
+                /* font-size: 0.7rem; */
 
-        /* font-size: 0.7rem; */
+        /* padding-left: 2rem;  */
+
     }
     .card{
       width: 10rem;
