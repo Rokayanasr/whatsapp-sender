@@ -56,9 +56,8 @@ main .text h3 {
   width: 20rem;
 }
 @media(max-width : 385px){
-
       .single-benefit {
-        padding-right: 1rem;
+        /* padding-right: 1rem; */
                 /* font-size: 0.7rem; */
 
         /* padding-left: 2rem;  */
